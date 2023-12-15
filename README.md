@@ -3,7 +3,7 @@ Google Colab notebook for downloading and viewing aligned sequence reads via IGV
 
 [Link to Colab Notebook](https://colab.research.google.com/drive/14AGlKiMbd7U-jjSmj3j-eI_nr-5kTMby?usp=sharing)
 
-![image](https://github.com/WolfgangNS/Sequence-Alignment-Viewer/blob/main/header.png?raw=true)
+![image](https://github.com/WolfgangNS/Sequence-Alignment-Viewer/blob/main/SAV_banner.png?raw=true)
 
 
 ## Motivation
@@ -25,9 +25,9 @@ I was searching all around the web for a notebook that simply runs IGV, with no 
 - Analyze gene expression patterns.
 
 - Investigate non-coding genome regions.
+  
+- Identify genetic variations (mutations, SNPs).
 
 ## Ideas for further exploration
-
-- Identify genetic variations (mutations, SNPs).
 
 - Compare genomes across species or strains.
