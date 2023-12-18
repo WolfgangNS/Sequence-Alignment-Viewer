@@ -24,6 +24,11 @@ I was searching all around the web for a notebook that simply runs IGV, with no 
 
 ![image](https://github.com/WolfgangNS/Sequence-Alignment-Viewer/blob/main/screenshot.png?raw=true)
 
+## Data pipeline
+
+<img src="https://github.com/WolfgangNS/Sequence-Alignment-Viewer/blob/main/file_flowchart.png?raw=true" width="20%" height="20%">
+
+
 ## Research Significance
 
 - Analyze gene expression patterns.
