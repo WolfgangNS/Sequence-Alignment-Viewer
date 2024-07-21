@@ -1,8 +1,8 @@
-Google Colab notebook for downloading and viewing aligned sequence reads via IGV, all in browser.
+Notebook for downloading and viewing aligned sequence reads via IGV, all in browser.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14AGlKiMbd7U-jjSmj3j-eI_nr-5kTMby?usp=sharing)
 
-![image](https://github.com/WolfgangNS/Sequence-Alignment-Viewer/blob/main/neurocloak-matcher.png?raw=true)
+![image](SAR-header.png)
 
 
 ## Motivation
